@@ -1,36 +1,31 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Dr. Habiba Rahman",
+    "label": "PhD Graduate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "chowaib4848@gmail.com",
+    "phone": "+880-1515686906",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "city": "Guangzhou,",
+      "countryCode": "China"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Department of International Business, University of Dhaka",
+      "position": "Research Assistant",
+      "startDate": "2017",
+      "endDate": "2019",
+      "Advisor": "TDr. Chowdhury Saima Ferdous",
+      "highlights": ["Designed research framework and data collection tools specialized in quantitative and qualitative analysis and question answering by integrating close-ended and open-ended questions." , "Analyzed data using data analysis tools such as, MAXQDA, SPSS, Mplus, R, AMOS, and HLM.", "Designed and drafted manuscript to submit into peer-reviewed journals, edit manuscript according to review comments, proofread manuscript before publication." ]
+    },
+    {
+      "name": "Self Fashion Ltd.",
+      "position": "Director",
+      "startDate": "2015",
+      "endDate": "2019",
+      "highlights": ["Maintained communications with buyers and stakeholders." , "Managed administrative operations.", "Contributed in Diong Business Group by World Bank from 2017 to 2020." ]
+    
     }
   ],
   "volunteer": [
