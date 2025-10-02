@@ -63,55 +63,16 @@
     ],
     "awards": [
         {
-            "title": "Nobel Prize in Physics",
-            "date": "1921-11-01",
-            "awarder": "Royal Swedish Academy of Sciences",
-            "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-            "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-        }
-    ],
-    "certificates": [
-        {
-            "name": "Machine Learning",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-location-dot"
+            "title": "Outstanding Excellent Graduate",
+            "awarder": "South China University of Technology"
         },
         {
-            "name": "Quantum Computing",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-tag"
+            "title": "CSC Scholarship",
+            "awarder": "China Scholarship Council"
         },
         {
-            "name": "Quantum Information",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-envelope"
-        },
-        {
-            "name": "Quantum Cryptography",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-hashtag"
-        },
-        {
-            "name": "Quantum Communication",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-calendar"
-        },
-        {
-            "name": "Quantum Teleportation",
-            "date": "2018-01-01",
-            "issuer": "Stanford University",
-            "url": "https://example.com",
-            "icon": "fa-solid fa-clipboard-check"
+            "title": "BBA Scholarship",
+            "awarder": "University of Dhaka"
         }
     ],
     "publications": [
@@ -139,16 +100,31 @@
     ],
     "skills": [
         {
-            "name": "Physics",
+            "name": "Research Tools",
             "level": "Master",
-            "icon": "fa-solid fa-hashtag",
             "keywords": [
-                "Quantum Mechanics",
-                "Quantum Computing",
-                "Quantum Information",
-                "Quantum Cryptography",
-                "Quantum Communication",
-                "Quantum Teleportation"
+                "MAXQDA", "SPSS", "Mplus", "R", "AMOS", "HLM"
+            ]
+        },
+        {
+            "name": "Analysis Method",
+            "level": "Master",
+            "keywords": [
+                "Scale Development", "Multilevel Modeling", "Structural Equation Modeling", "Qualitative Coding"
+            ]
+        },
+        {
+            "name": "Analysis & Visualization",
+            "level": "Master",
+            "keywords": [
+                "Microsoft Office", "Data Visualization"
+            ]
+        },
+        {
+            "name": "Soft Skills",
+            "level": "Master",
+            "keywords": [
+                "Presentation & Public Speaking", "Communication", "Quick Learning & Adaptation"
             ]
         }
     ],
@@ -169,43 +145,24 @@
             "icon": ""
         }
     ],
-    "interests": [
-        {
-            "name": "Physics",
-            "icon": "fa-solid fa-tag",
-            "keywords": [
-                "Quantum Mechanics",
-                "Quantum Computing",
-                "Quantum Information",
-                "Quantum Cryptography",
-                "Quantum Communication",
-                "Quantum Teleportation"
-            ]
-        }
-    ],
     "references": [
         {
-            "name": "Professor John Doe",
-            "icon": "fa-solid fa-laptop",
-            "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+            "name": "Dr. Li Min",
+            "email":"bmminli@scut.edu.cn", 
+            "phone": "+8613922451423",
+            "reference": "Professor, Corporate Management, School of Business Administration, South China University of Technology, China."
         },
         {
-            "name": "Professor John Doe",
-            "icon": "fa-solid fa-thumbtack",
-            "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-        }
-    ],
-    "projects": [
+            "name": "Dr. Chowdhury Saima Ferdous",
+            "email":"saimachy77@yahoo.com", 
+            "phone": "+8801711535068",
+            "reference": "Professor, Department of International Business, Faculty of Business Studies, University of Dhaka, Bangladesh."
+        },
         {
-            "name": "Quantum Computing",
-            "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-            "highlights": [
-                "Quantum Teleportation",
-                "Quantum Cryptography"
-            ],
-            "startDate": "2018-01-01",
-            "endDate": "2018-01-01",
-            "url": "https://example.com"
+            "name": "Dr. Fahmida Mostafiz",
+            "email":"fahmida@du.ac.bd", 
+            "phone": "+8801737299767",
+            "reference": "Assistant Professor, Department of International Business, Faculty of Business Studies, University of Dhaka, Bangladesh."
         }
     ]
 }
