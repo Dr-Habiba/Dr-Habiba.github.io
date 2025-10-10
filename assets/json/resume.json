@@ -75,27 +75,66 @@
             "awarder": "University of Dhaka"
         }
     ],
-    "publications": [
+    "research & publications": [
         {
-            "name": "Zur Elektrody/namik bewegter Körper",
-            "publisher": "Annalen der Physik",
-            "releaseDate": "1905-06-30",
-            "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-            "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+            "name": "Research on the Path of Employers' Perceived Labor Standards on Task Performance in Bangladeshi Ready Made Garment Industry",
+            "publisher": "PhD Dissertation",
+            "releaseDate": "2025"
+            },
+        {
+            "name": "The Development and Validation of Labor Standards Perceived by Employers Scale",
+            "publisher": "Employee Relations, 47(9), 1-32",
+            "releaseDate": "2025"
+            },
+        {
+            "name": "Understanding Workers' Job Performance Through Workers' Voice: Roles of Decent Work, Intrinsic Motivation and Procedural Justice Climate",
+            "publisher": "Employee Relations",
+            "releaseDate": "25-08-2025"
+            },
+        {
+            "name": "Linking Workers' Supportive Voice and Task Performance through Workers' Perception of Decent Work and Distributive Justice Climate: A Multilevel Research on the RMG Industry in Bangladesh",
+            "publisher": "International Journal of Business and Management, 19(2)",
+            "releaseDate": "2024"
         },
         {
-            "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-            "publisher": "Annalen der Physik",
-            "releaseDate": "1905-03-18",
-            "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-            "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+            "name": "The Impact of Union Transformational Leadership on Union Citizenship Behavior in the Vietnamese Union Context",
+            "publisher": "40-50 Asian Journal of Social Science, 52(1), 44-50",
+            "releaseDate": "2024"
         },
         {
-            "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-            "publisher": "Annalen der Physik",
-            "releaseDate": "1916-03-20",
-            "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-            "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+            "name": "Internationalization of Cambodia Garment Factories' Industrial Relations Governance",
+            "publisher": "International Journal of Business and Management, 19(2), 40-50",
+            "releaseDate": "2024"
+        },
+        {
+            "name": "Workers’ Voice Behavior in Bangladesh’s RMG Industry: How Voice Behavior Can Influence Task Performance",
+            "publisher": "International Business Research",
+            "releaseDate": "2025"
+        },
+        {
+            "name": "Influence of Public and Private Regulations on Labor Standards: A Literature Review",
+            "publisher": "International Business Research",
+            "releaseDate": "2025"
+        },
+        {
+            "name": "Analysis of the Status of Women Directors in Listed Financial Institutions of Bangladesh",
+            "publisher": "International Business Research, 12(4), 130-142",
+            "releaseDate": "2019"
+        },
+        {
+            "name": "Transformational Leadership and Union Innovation: A Multilevel Study on Union Practices, Union Commitment and Employee Voice",
+            "publisher": "Journal of Managerial Psychology",
+            "releaseDate": "Under Review"
+        },
+        {
+            "name": "Analysis of the Status of the Women Directors: A Study on the Public Limited Financial Institutions in Bangladesh",
+            "publisher": "MBA Thesis",
+            "releaseDate": "2017"
+        },
+        {
+            "name": "Characteristics of Female Directors of Public Limited Companies in Bangladesh",
+            "publisher": "BBA Thesis",
+            "releaseDate": "2016"
         }
     ],
     "skills": [
